@@ -1,0 +1,9 @@
+body {
+  /* background-color: blueviolet; */
+  background-image: url("https://media3.giphy.com/media/3o6vXTpomeZEyxufGU/giphy.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1 {
+  color: white;
+}
